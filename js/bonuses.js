@@ -90,8 +90,6 @@ function updateBonusDisplay() {
             <span style="color:#44ffff;">H</span>elp · 
             <span style="color:#44ffff;">Space</span> - pause · 
             <span style="color:#44ffff;">B</span>at · 
-            <span style="color:#44ffff;">M</span>usic ·
-            <span style="color:#44ffff;">N</span>ext track · 
             <span style="color:#44ffff;">D</span>emo · 
             <span style="color:#44ffff;">T</span>op · 
             <span style="color:#44ffff;">L</span>vl · 
